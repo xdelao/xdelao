@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xdelao
+- 👋 Hello, I am @xdelao, I am in the last semesters of the university, I hope I can help you!
 - 👀 I am interested in programming, I am very interested in web design. 
 - 🌱 I am currently learning Java at university, but in my spare time I am learning the C language.
 - 💞️ I am looking to collaborate in companies where I can demonstrate my talent in web design.
